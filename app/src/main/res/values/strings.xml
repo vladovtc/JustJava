@@ -1,0 +1,24 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="quantity">Quantity</string>
+    <string name="add" translatable="false">+</string>
+    <string name="substrackt" translatable="false">-</string>
+    <string name="price">Price</string>
+    <string name="order_email">Order e-mail</string>
+    <string name="_0" translatable="false">0</string>
+    <string name="minus" translatable="false">-</string>
+    <string name="toppings">Toppings</string>
+    <string name="name_goes_here">Name goes here</string>
+    <string name="thank_you">\nThank you!</string>
+    <string name="whipped_cream">Whipped cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="order_summary_total">Total:  <xliff:g examle="$10" id="price">%s</xliff:g></string>
+    <string name="order_summary_quantity">Quantity: <xliff:g example="1" id="quantity">%d</xliff:g></string>
+    <string name="order_chocolade">Add chocolate? <xliff:g example="true" id="addChocolate">%b</xliff:g></string>
+    <string name="order_whipped_cream">Add whipped cream? <xliff:g example="true" id="addWhippedCream">%b</xliff:g></string>
+    <string name="order_summary_name">Name: <xliff:g example="Amy" id="name">%s</xliff:g></string>
+    <string name="order_viber">Order Viber</string>
+    <string name="starting_order_number" translatable="false">1</string>
+    <string name="just_java_order_for">Just Java order for</string>
+    <string name="space" />
+</resources>
